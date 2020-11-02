@@ -2,7 +2,6 @@
   <h1>Ruslan Gonzalez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </p>
 
-
 ![Visitor Count](https://profile-counter.glitch.me/ruslanguns/count.svg)
 <p align="justify">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruslanguns?label=Followers&style=social">
