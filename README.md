@@ -11,9 +11,9 @@
 </p>
 
 <p>
-  <strong>𝕎𝕖𝕓𝕤𝕚𝕥𝕖:</strong> [hͪᴛⷮᴛⷮрⷬs͛://rͬuͧs͛guͧnxͯ.ᴛⷮᴋⷦ/](https://rusgunx.tk)
+  <strong>𝕎𝕖𝕓𝕤𝕚𝕥𝕖:</strong> <a href="https://rusgunx.tk">[hͪᴛⷮᴛⷮрⷬs͛://rͬuͧs͛guͧnxͯ.ᴛⷮᴋⷦ/</a>
   </br>
-  <strong>𝕋𝕨𝕚𝕥𝕥𝕖𝕣:</strong> [@rͬuͧs͛laͣngoͦnzaͣleͤz](https://twitter.com/ruslangonzalez)
+  <strong>𝕋𝕨𝕚𝕥𝕥𝕖𝕣:</strong> <a href="https://twitter.com/ruslangonzalez">@rͬuͧs͛laͣngoͦnzaͣleͤz</a>
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/ruslanguns/count.svg)
