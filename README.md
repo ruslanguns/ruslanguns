@@ -2,8 +2,6 @@
   <h1>Ruslan Gonzalez 👨‍💻</h1> 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/ruslanguns/count.svg)
-
 <p align="justify">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruslanguns?label=Followers&style=social">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruslangonzalez?style=social">
